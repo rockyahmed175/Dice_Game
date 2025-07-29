@@ -80,13 +80,3 @@ Less than 3 dice
 Dice with more or less than 6 values
 
 Dice with non-integer values
-
-📺 Demo
-A full video demonstration (including valid/invalid inputs, help table, and two rounds of gameplay) is provided as part of the submission.
-
-📁 File Structure
-bash
-Copy
-Edit
-dice_game.js     # Main game logic
-README.md        # This file
